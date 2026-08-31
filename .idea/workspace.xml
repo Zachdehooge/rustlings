@@ -11,21 +11,7 @@
     </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b9a4944-264f-4903-84ce-27b9930dc393" name="Changes" comment="Rustlings">
-      <change beforePath="$PROJECT_DIR$/.rustlings-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.rustlings-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics4.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics5.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/07_structs/structs1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/07_structs/structs1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/07_structs/structs2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/07_structs/structs2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics4.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics5.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/07_structs/structs1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/07_structs/structs1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/07_structs/structs2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/07_structs/structs2.rs" afterDir="false" />
-    </list>
+    <list default="true" id="0b9a4944-264f-4903-84ce-27b9930dc393" name="Changes" comment="Rustlings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
