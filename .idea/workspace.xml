@@ -11,7 +11,9 @@
     </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b9a4944-264f-4903-84ce-27b9930dc393" name="Changes" comment="Rustlings" />
+    <list default="true" id="0b9a4944-264f-4903-84ce-27b9930dc393" name="Changes" comment="Rustlings">
+      <change beforePath="$PROJECT_DIR$/exercises/08_enums/enums3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/08_enums/enums3.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
